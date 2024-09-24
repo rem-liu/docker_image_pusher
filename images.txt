@@ -1,1 +1,1 @@
-postgres:9
+anchore/anchore-engine:v1.0.0
