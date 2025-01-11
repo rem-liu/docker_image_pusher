@@ -1,1 +1,1 @@
-ikubernetes/myapp:v2
+pragkent/alidns-webhook:0.1.1
