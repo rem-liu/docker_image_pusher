@@ -1,1 +1,1 @@
-busybox:latest
+victoriametrics/victoria-metrics:latest
