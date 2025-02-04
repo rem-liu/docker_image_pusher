@@ -1,1 +1,1 @@
-victoriametrics/vmagent:latest
+victoriametrics/vmalert:latest
