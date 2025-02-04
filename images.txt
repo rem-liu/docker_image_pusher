@@ -1,1 +1,1 @@
-prom/alertmanager:latest
+grafana/grafana:latest
