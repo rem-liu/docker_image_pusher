@@ -1,3 +1,2 @@
-kubeshark/worker:v52.4
-kubeshark/front:v52.4
-kubeshark/hub:v52.4
+us-docker.pkg.dev/fairwinds-ops/oss/goldilocks:v4
+us-docker.pkg.dev/fairwinds-ops/oss/goldilocks:v4
