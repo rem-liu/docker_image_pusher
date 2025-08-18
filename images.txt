@@ -1,2 +1,1 @@
-us-docker.pkg.dev/fairwinds-ops/oss/goldilocks:v4
-us-docker.pkg.dev/fairwinds-ops/oss/goldilocks:v4
+stilliard/pure-ftpd
